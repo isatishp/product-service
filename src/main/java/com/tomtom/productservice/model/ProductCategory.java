@@ -1,0 +1,5 @@
+package com.tomtom.productservice.model;
+
+public enum ProductCategory {
+    MOBILES, MOBILE_ACCESSORIES, LAPTOPS, WASHING_MACHINE, AC, TV, FRIDGE, FOOTWEAR, GROOMING, CLOTHING, WATCHES, FURNITURE, BOOKS, STATIONERY
+}

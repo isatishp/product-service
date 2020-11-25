@@ -1,0 +1,107 @@
+{
+  "products": [
+    {
+      "category": "MOBILES",
+      "make": "Apple",
+      "name":"iPhone 11 Pro",
+      "description" : "256 GB Space Grey",
+      "price" : 97999.99,
+      "sellerId" : 3
+    },
+    {
+      "category": "MOBILES",
+      "make": "Samsung",
+      "name":"Galaxy A51",
+      "description" : "64 GB Prism Crush Black",
+      "price" : 24486.00,
+      "sellerId" : 2
+    },
+    {
+      "category": "MOBILES",
+      "make": "Xiaomi",
+      "name":"Redmi Note 9 Pro Max",
+      "description" : "128 GB Interstellar Black",
+      "price" : 13499.00,
+      "sellerId" : 7
+    },
+    {
+      "category": "MOBILE_ACCESSORIES",
+      "make": "Boat",
+      "name":"AirDopes 441",
+      "description" : "Bluetooth Earpods",
+      "price" : 1999.0,
+      "sellerId" : 3
+    },
+    {
+      "category": "MOBILE_ACCESSORIES",
+      "make": "Mi",
+      "name":"Mi 3i 20000 mAh Power Bank",
+      "description" : "Fast Charging, 18W, Black, Lithium Polymer",
+      "price" : 1999.0,
+      "sellerId" : 1
+    },
+    {
+      "category": "LAPTOPS",
+      "make": "HP",
+      "name":"Pavilion 15 x360",
+      "description" : "Gaming Laptop",
+      "price" : 64998.99,
+      "sellerId" : 4
+    },
+    {
+      "category": "LAPTOPS",
+      "make": "Dell",
+      "name":"Xps",
+      "description" : "Gaming Laptop",
+      "price" : 93995.87,
+      "sellerId" : 6
+    },
+    {
+      "category": "WASHING_MACHINE",
+      "make": "Bosch",
+      "name":"Serie 4",
+      "description" : "Front Load Washing machine",
+      "price" : 32572.55,
+      "sellerId" : 5
+    },
+    {
+      "category": "FOOTWEAR",
+      "make": "Adidas",
+      "name":"Men's Glarus M",
+      "description" : "Men's Running Shoes",
+      "price" : 3995.45,
+      "sellerId" : 9
+    },
+    {
+      "category": "GROOMING",
+      "make": "Wildstone",
+      "name":"Code Titanium",
+      "description" : "Deodorant for Men",
+      "price" : 249.45,
+      "sellerId" : 9
+    },
+    {
+      "category": "GROOMING",
+      "make": "Ustra",
+      "name":"Beard Oil",
+      "description" : "Beard Oil for Men",
+      "price" : 675.45,
+      "sellerId" : 8
+    },
+    {
+      "category": "BOOKS",
+      "name":"Immortals of Meluha by Amish",
+      "description" : "First Book - Shiva Trilogy",
+      "price" : 995.45,
+      "sellerId" : 10
+    },
+    {
+      "category": "STATIONERY",
+      "make": "SparkWay",
+      "name":"SparkWay 4 Card Holder",
+      "description" : "",
+      "price" : 129.00,
+      "sellerId" : 10
+    }
+  ]
+}
